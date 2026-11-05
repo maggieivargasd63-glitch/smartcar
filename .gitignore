@@ -1,0 +1,26 @@
+# ---- Keil MDK build output ----
+Objects/
+Listings/
+DebugConfig/
+RTE/
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.bin
+*.map
+*.lnp
+*.dep
+*.htm
+*.build_log.htm
+*.iex
+*.scvd
+*.sct
+*.uvguix.*
+
+# ---- IDE ----
+.vscode/
+.idea/
+*.bak
+*.tmp
