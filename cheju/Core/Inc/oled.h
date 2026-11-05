@@ -4,10 +4,10 @@
 #include "stm32f1xx_hal.h"
 #include "i2c.h"
 
-/* OLED I2Cµÿ÷∑ SSD1306 */
+/* OLED I2CÂú∞ÂùÄ SSD1306 */
 #define OLED_ADDR  (0x3C << 1)
 
-/* ∫Ø ˝…˘√˜ */
+/* ÂáΩÊï∞Â£∞Êòé */
 void OLED_Init(void);
 void OLED_Clear(void);
 void OLED_On(void);
